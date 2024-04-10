@@ -17,7 +17,7 @@
       },
       {
         "name": "Linux",
-        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/linux2.png"
+        "logo": "https://raw.githubusercontent.com/Auggustto/Portf-lio-Dio/main/data/imgs/linux2.png"
       },
       {
         "name": "React",
@@ -25,23 +25,23 @@
       },
       {
         "name": "Javascript",
-        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/Auggustto/Portf-lio-Dio/main/data/imgs/js.png"
       },
       {
         "name": "Graphql",
-        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/graphql.png"
+        "logo": "https://raw.githubusercontent.com/Auggustto/Portf-lio-Dio/main/data/imgs/graphql.png"
       },
       {
         "name": "Docker",
-        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/docker.png"
+        "logo": "https://raw.githubusercontent.com/Auggustto/Portf-lio-Dio/main/data/imgs/docker.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/Auggustto/Portf-lio-Dio/main/data/imgs/postgresql.png"
       },
       {
         "name": "Mysql",
-        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/Auggustto/Portf-lio-Dio/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
@@ -77,19 +77,24 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Developer Back-End Python / CYF",
+      "period": "2023 - até o momento",
+      "description": "Contribuição como membro essencial da equipe de Inteligência Artificial, focado no desenvolvimento e aprimoramento de soluções de Back-End. Isso inclui tarefas como transcrição de textos em fala, criação de nuvens de palavras, extração de informações com Spacy e treinamento de modelos como OpenAI, GPT-mini e Spacy. Além disso, responsável pela criação de monitoramentos automáticos com base nos textos transcritos, implementação de condicionais para melhorar a precisão das análises e configuração de servidores para suportar modelos de IA internos e aplicações Flask-RESTful. Também participei ativamente de implementações de multiprocessamento em Python e estabelecimento de filas para análises eficientes. Aprimoramento e desenvolvimento de sistemas de interação com Inteligência Artificial visando a automação de processos de monitoramento de ligações. Isso envolveu a utilização de tecnologias como Whisper para a conversão de áudio em texto e Spacy para a identificação de entidades, entre outras ferramentas relevantes. Conduzi avaliações de chamadas por parte dos atendentes, criei formulários dinâmicos, ofereci feedback aos colaboradores e forneci insights analíticos aos responsáveis das áreas envolvidas, entre outras funcionalidades essenciais. Contribuição significativa para a construção de uma arquitetura de Back-End escalável e de alta qualidade. Desenvolvi APIs RESTful utilizando o framework Flask-API e otimizei o uso de GPU sempre que possível. Além disso, elaborei estratégias de interação com bancos de dados utilizando SQLAlchemy e implementei soluções com PostgreSQL como base de dados. Também participei do desenvolvimento de interfaces de teste para a ferramenta, utilizando JavaScript, HTML e CSS. Destaques: Ministrei treinamento sobre versionamento de códigos e uso do GitHub por dois meses. Reconhecimento como 'Guru do Git', destacando minha expertise e contribuições excepcionais para a gestão de código-fonte com o Git."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Developer Back-End Python / Grupo Alloy Mit",
+      "period": "2023 - 2023",
+      "description": "Participação no desenvolvimento de um banco digital. Documentação do projeto e manutenção do Back-End e Front do sistema com o desenvolvimento no framework Django (Python). Aplicação responsável por conectar o backoffice da operação com os detalhes de cada conta, dash de resultados, responsável pelo link de parametrização de contas, tarifas e cobranças do banco."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista / Grupo Alloy Mit",
+      "period": "2022 - 2023",
+      "description": "Atuação junto ao time de controladoria; Extração de dados, realização de Webscraping, modelagem e criação de APIs; Experiência em consumir APIs com a utilização de Python, M e VBA; Especializado em automação de relatórios e na criação de sistemas integrados com banco de dados MySQL; Utilização frequente de ferramentas como Power BI, Power Automate e Excel (VBA); Modelagem e análise de dados em Python, DAX, M e R."
+    },
+    {
+      "name": "Analista / Magazine Luiza",
+      "period": "2020 - 2022",
+      "description": "Atuação junto ao time de qualidade (Last Mile); Desenvolvimento de análises relacionadas ao desempenho, prazo de entrega ao cliente, gestão de piso, tratamento de problemas e inventários; Colaboração com a equipe de roteirização na realização de análises de rotas, criação de templates de roteirização e otimização de processos; Experiência na criação de indicadores chave de desempenho (KPIs)."
     }
   ]
 }
