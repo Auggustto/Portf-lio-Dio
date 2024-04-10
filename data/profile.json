@@ -1,6 +1,6 @@
 {
   "name": "Leonardo Augusto",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/93408782?v=4",
   "job": "Developer Back-End",
   "location": "São Paulo - SP",
   "phone": "(11) 94036-7292",
@@ -12,24 +12,36 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "python",
+        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/python.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Linux",
+        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/linux2.png"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Javascript",
+        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/js.png"
+      },
+      {
+        "name": "Graphql",
+        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/graphql.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/docker.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "Mysql",
+        "logo": "https://github.com/Auggustto/Portf-lio-Dio/blob/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
@@ -53,8 +65,13 @@
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Treinamento de como configurar o servidor Ubuntu-Serve para Python - Flask",
+      "url": "https://github.com/Auggustto/Ubuntu-Serve-para-Python",
+      "github": true
+    },
+    {
+      "name": "Artigo CI/CD",
+      "url": "https://github.com/Auggustto/CI-CD",
       "github": true
     }
   ],
